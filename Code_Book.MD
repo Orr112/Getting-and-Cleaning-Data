@@ -3,8 +3,8 @@ This code book describes variables and data for the tData2.txt file.</li>
 
 
 #Identifiers
-*Subject: ID for test subjects.
-*Activity: Description of physical activity performed during measurements.
+<li>Subject: ID for test subjects.</li>
+<li>Activity: Description of physical activity performed during measurements.</li>
 
 #Mean and Standard Deviation Measurements
 *tBodyAccMagMean
