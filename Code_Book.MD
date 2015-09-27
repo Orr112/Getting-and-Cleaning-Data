@@ -1,5 +1,5 @@
 #Code Book 
-This code book describes variables and data for the tData2.txt file.</li>
+This code book describes variables and data from the tData2.txt file.</li>
 
 
 #Identifiers
